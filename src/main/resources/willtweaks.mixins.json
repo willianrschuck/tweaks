@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.willianschuck.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+	],
+	"client": [
+		"KeyboardMixin",
+		"MinecraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
