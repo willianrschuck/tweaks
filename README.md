@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Tweaks
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Este projeto consiste em modificações do jogo Minecraft criadas para o Fabric modloader. O objetivo principal foi entender mais sobre como o Java trabalha e conhecer mais sobre mixins, uma forma de recomplilar o bytecode já gerado e carregar novos códigos.
